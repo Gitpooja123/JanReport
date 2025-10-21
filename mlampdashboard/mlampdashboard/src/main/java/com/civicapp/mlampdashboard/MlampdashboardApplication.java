@@ -1,13 +1,13 @@
-package MP.CIR.Backend;
+package com.civicapp.mlampdashboard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JanReportApplication {
+public class MlampdashboardApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JanReportApplication.class, args);
+		SpringApplication.run(MlampdashboardApplication.class, args);
 	}
 
 }
