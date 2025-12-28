@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dbe9a8e-95d6-47ba-ba71-e304eeca938a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/postcss.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/components/Chip.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/components/IssueCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/components/KPI.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/components/MapPlaceholder.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/components/Sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/components/StatusBadge.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/components/TopNav.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/layouts/AdminLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/layouts/CitizenLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/layouts/MLALayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/layouts/MainLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/pages/admin/ActivityLog.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/pages/admin/Analytics.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/pages/admin/UsersList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/pages/admin/VerifyIssues.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/pages/citizen/ChatWithMLA.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/pages/citizen/ReportIssue.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/pages/citizen/TrackIssue.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/pages/mla_dashboard/IssueDetails.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/pages/mla_dashboard/IssuesList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/pages/mla_dashboard/MapView.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/pages/mla_dashboard/Overview.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/pages/mla_dashboard/Reports.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/router/AppRoutes.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/utils/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/src/utils/mockIssues.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JanReportApp/tailwind.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlampdashboard/src/main/java/com/civicapp/mlampdashboard/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlampdashboard/src/main/java/com/civicapp/mlampdashboard/controller/MlaDashboardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlampdashboard/src/main/java/com/civicapp/mlampdashboard/dto/IssueListDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlampdashboard/src/main/java/com/civicapp/mlampdashboard/dto/IssueMapDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlampdashboard/src/main/java/com/civicapp/mlampdashboard/entity/Issue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlampdashboard/src/main/java/com/civicapp/mlampdashboard/repository/IssueRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlampdashboard/src/main/java/com/civicapp/mlampdashboard/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mlampdashboard/src/main/java/com/civicapp/mlampdashboard/service/MlaDashboardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlampdashboard/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mlampdashboard/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gitpooja123&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gajulakavya12/JanReport.git&quot;,
+    &quot;accountId&quot;: &quot;02e55625-80ed-4d17-8ae2-e552f67d2461&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="34HKfkqg3FG92rHOaEjtiWnGEQQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Civil_Issue_Reporting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MlampdashboardApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Pooja__dev&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Civil Issue Reporting/JanReport/mlampdashboard&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Civil_Issue_Reporting" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.civicapp.mlampdashboard.MlampdashboardApplication" />
+      <module name="mlampdashboard" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dbe9a8e-95d6-47ba-ba71-e304eeca938a" name="Changes" comment="" />
+      <created>1760865163183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760865163183</updated>
+    </task>
+    <servers />
+  </component>
+</project>
