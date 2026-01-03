@@ -1,0 +1,115 @@
+/* About page scoped styling - About.css */
+
+/* Page spacing */
+.about-hero {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.about-title {
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  color: var(--color-accent);
+}
+
+.about-lead {
+  color: var(--color-text-muted);
+  font-size: 1.05rem;
+}
+
+/* Quick facts card */
+.about-hero-card {
+  border-radius: 0.9rem;
+  background: var(--color-card-bg);
+  border: 1px solid var(--color-card-border);
+  box-shadow: 0 8px 28px rgba(13, 18, 28, 0.04);
+}
+
+/* Stats */
+.stat-card {
+  border-radius: 0.9rem;
+  background: var(--color-card-bg);
+  border: 1px solid var(--color-card-border);
+  box-shadow: 0 8px 22px rgba(13, 18, 28, 0.04);
+  transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+}
+
+.stat-card:hover {
+  transform: translateY(-6px);
+  border-color: var(--color-accent);
+  box-shadow: 0 20px 40px rgba(13, 18, 28, 0.08);
+}
+
+.stat-value {
+  font-size: 1.4rem;
+  color: var(--color-text);
+}
+
+.stat-icon {
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+}
+
+/* Section headings */
+.section-heading {
+  font-size: 1.4rem;
+  color: var(--color-text);
+}
+
+/* Why list */
+.why-list li {
+  margin-bottom: 0.6rem;
+  display: flex;
+  align-items: center;
+}
+
+/* Team cards */
+.team-card {
+  border-radius: 0.9rem;
+  padding-bottom: 1rem;
+  text-align: center;
+  overflow: hidden;
+}
+
+.avatar-wrapper {
+  width: 84px;
+  height: 84px;
+  margin: 0 auto;
+  border-radius: 999px;
+  overflow: hidden;
+  border: 3px solid rgba(0,0,0,0.06);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-bg-secondary);
+}
+
+.avatar-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Roadmap & contact */
+.about-roadmap .landing-card {
+  border-radius: 0.85rem;
+}
+
+.about-contact .btn {
+  white-space: nowrap;
+}
+
+/* Responsive tweaks */
+@media (max-width: 767.98px) {
+  .about-hero {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+  .avatar-wrapper {
+    width: 72px;
+    height: 72px;
+  }
+}
